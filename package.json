@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/salatielaizza/BestTravelRoute/issues"
   },
-  "homepage": "https://github.com/salatielaizza/BestTravelRoute#readme"
+  "homepage": "https://github.com/salatielaizza/BestTravelRoute#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
